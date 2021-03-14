@@ -32,7 +32,7 @@
   * Doxygen Documentation Generator
 
 ## How to Simulate HW on PC?
-  * A text file will simulate the switches data [(switch.txt)]()
-  * Another text file will store the set motor angle [(motor.txt)]()
+  * A text file will simulate the switches data [(switch.txt)](https://github.com/omarhesham2/SpeedControlModule/blob/main/switch.txt)
+  * Another text file will store the set motor angle [(motor.txt)](https://github.com/omarhesham2/SpeedControlModule/blob/main/motor.txt)
   * Both files inside the project folder structure
   * Every line correspond to a test case
